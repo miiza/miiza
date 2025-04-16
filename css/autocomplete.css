@@ -1,0 +1,48 @@
+
+#suggestions p {
+	margin: 0;
+/*	line-height: 20px;*/
+	line-height: 1.25;
+}
+
+#suggestions .suggestion {
+/*	border-bottom: 1px solid gray;*/
+	clear: both;
+	padding: 7px 0px 7px 5px;
+}
+
+#suggestions .avatar {
+	float: left;
+	margin-right: 5px;
+}
+
+#suggestions .info {
+/*	border-bottom: 1px solid gray;*/
+/*	float: left;*/
+	margin-left: 72px;
+}
+
+#suggestions .full_name {
+	font-weight: bold;
+/*	padding-left: 20px;*/
+}
+
+#suggestions .wording {
+	font-weight: bold;
+/*	color: #c40606;*/
+/*	color: #ab0202;*/
+	color: rgb(83, 100, 113);
+	color: #0b4adb;
+	color: #0243d6;
+}
+
+#suggestions .mentions_received {
+	padding-left: 20px;
+	font-style: italic;
+	color: rgb(83, 100, 113);
+}
+
+#suggestions .title {
+	font-style: italic;
+	color: rgb(83, 100, 113);
+}
